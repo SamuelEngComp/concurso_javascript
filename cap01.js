@@ -189,8 +189,15 @@ console.log(objeto_04.myCustomProperty); // Nova propriedade
     console.log(numerosArrays_02); // 4567
 
     console.log("----------------------------------------------");
+   // IDENTIFICANDO REFERENCIAS DE OBJETOS -> INSTANCEOF
+    console.log(numerosArrays instanceof Array); //true
+    console.log(nnumbers instanceof Array); //false
+    console.log(nnumbers instanceof Object); //true
 
     console.log("----------------------------------------------");
+    //IDENTIFICANDO ARRAY
+    console.log(Array.isArray(numerosArrays)); //true
+
 
     console.log("----------------------------------------------");
 
