@@ -8,6 +8,8 @@ Principios de orientação a objetos em JavaScript
 Nicholas C. Zakas
 NovaTech 2014
 
-## CAPITULO 01
+## CAPITULO 01 - TIPOS PRIMITIVOS E DE REFERENCIA
+Finalizado
 
-parei na seção-> criando objetos, pagina 24
+## CAPITULO 02 - FUNCOES
+Capitulo iniciado
